@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yara-solution.github.io/static/css/main.d8694be1.css",
+    "main.js": "/yara-solution.github.io/static/js/main.200d963b.js",
+    "static/media/MainImage.jpg": "/yara-solution.github.io/static/media/MainImage.c822efa2179d459a617e.jpg",
+    "static/media/Logo.webp": "/yara-solution.github.io/static/media/Logo.3faab0a13f761fc01ce5.webp",
+    "index.html": "/yara-solution.github.io/index.html",
+    "main.d8694be1.css.map": "/yara-solution.github.io/static/css/main.d8694be1.css.map",
+    "main.200d963b.js.map": "/yara-solution.github.io/static/js/main.200d963b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8694be1.css",
+    "static/js/main.200d963b.js"
+  ]
+}
