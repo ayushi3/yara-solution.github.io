@@ -1,0 +1,20 @@
+.select {
+  padding: 6px 6px 6px 12px;
+  border: 1px solid #5a4e45;
+  background: transparent;
+  outline: none;
+  cursor: pointer;
+  color: #5a4e45;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  text-transform: none;
+
+}
+
+.para{
+    color: #5a4e45;
+}
+
+.barChartContent{
+  margin-top: 70px;
+}
